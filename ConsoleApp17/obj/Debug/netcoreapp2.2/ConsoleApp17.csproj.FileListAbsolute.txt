@@ -1,0 +1,44 @@
+C:\Users\JayDanRaf\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.deps.json
+C:\Users\JayDanRaf\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.runtimeconfig.json
+C:\Users\JayDanRaf\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.runtimeconfig.dev.json
+C:\Users\JayDanRaf\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.dll
+C:\Users\JayDanRaf\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.pdb
+C:\Users\JayDanRaf\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.csprojAssemblyReference.cache
+C:\Users\JayDanRaf\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\JayDanRaf\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.AssemblyInfoInputs.cache
+C:\Users\JayDanRaf\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.AssemblyInfo.cs
+C:\Users\JayDanRaf\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.dll
+C:\Users\JayDanRaf\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.pdb
+C:\todayTemp\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.deps.json
+C:\todayTemp\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.runtimeconfig.json
+C:\todayTemp\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.runtimeconfig.dev.json
+C:\todayTemp\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.dll
+C:\todayTemp\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.pdb
+C:\todayTemp\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.csprojAssemblyReference.cache
+C:\todayTemp\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\todayTemp\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.AssemblyInfoInputs.cache
+C:\todayTemp\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.AssemblyInfo.cs
+C:\todayTemp\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.dll
+C:\todayTemp\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.pdb
+F:\Terst Area\job sample\Pevoty Test\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.deps.json
+F:\Terst Area\job sample\Pevoty Test\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.runtimeconfig.json
+F:\Terst Area\job sample\Pevoty Test\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.runtimeconfig.dev.json
+F:\Terst Area\job sample\Pevoty Test\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.dll
+F:\Terst Area\job sample\Pevoty Test\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.pdb
+F:\Terst Area\job sample\Pevoty Test\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.csprojAssemblyReference.cache
+F:\Terst Area\job sample\Pevoty Test\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.csproj.CoreCompileInputs.cache
+F:\Terst Area\job sample\Pevoty Test\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.AssemblyInfoInputs.cache
+F:\Terst Area\job sample\Pevoty Test\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.AssemblyInfo.cs
+F:\Terst Area\job sample\Pevoty Test\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.dll
+F:\Terst Area\job sample\Pevoty Test\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.pdb
+F:\Terst Area\job sample\Pevoty Test\Pevoty Test\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.deps.json
+F:\Terst Area\job sample\Pevoty Test\Pevoty Test\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.runtimeconfig.json
+F:\Terst Area\job sample\Pevoty Test\Pevoty Test\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.runtimeconfig.dev.json
+F:\Terst Area\job sample\Pevoty Test\Pevoty Test\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.dll
+F:\Terst Area\job sample\Pevoty Test\Pevoty Test\ConsoleApp17\bin\Debug\netcoreapp2.2\ConsoleApp17.pdb
+F:\Terst Area\job sample\Pevoty Test\Pevoty Test\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.csprojAssemblyReference.cache
+F:\Terst Area\job sample\Pevoty Test\Pevoty Test\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.csproj.CoreCompileInputs.cache
+F:\Terst Area\job sample\Pevoty Test\Pevoty Test\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.AssemblyInfoInputs.cache
+F:\Terst Area\job sample\Pevoty Test\Pevoty Test\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.AssemblyInfo.cs
+F:\Terst Area\job sample\Pevoty Test\Pevoty Test\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.dll
+F:\Terst Area\job sample\Pevoty Test\Pevoty Test\ConsoleApp17\obj\Debug\netcoreapp2.2\ConsoleApp17.pdb
