@@ -22,7 +22,8 @@ namespace ConsoleApp17
         private static void ReadTextFile(string path)
         {
             string string1 = ""; Decimal elaps1;
-           
+           try
+            {
             string[] lines = File.ReadAllLines(path);
 
             var list = new List<KeyValuePair<string, Decimal>>();
@@ -186,6 +187,22 @@ namespace ConsoleApp17
             Console.ReadLine();
 
         }
+             catch (FileNotFoundException ef)
+            {
+                // FileNotFoundExceptions are handled here.
+            }
+            catch (IOException e)
+            {
+                // Extract some information from this exception, and then 
+                // throw it to the parent method.
+                if (e.Source != null)
+                    Console.WriteLine("IOException source: {0}", e.Source);
+                throw;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("{0} Exception caught.", e);
+            }
 
     }
 }
